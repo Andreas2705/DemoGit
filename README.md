@@ -1,3 +1,3 @@
 # DemoGit
 Demo van Git
- hallo GitHub
+ hallo hitHub
