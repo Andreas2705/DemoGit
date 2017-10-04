@@ -1,5 +1,7 @@
-var = "Hello world"
+voornaam = "andreas"
+familienaam = "popelier"
+email = "keklord@gmail.G"
 
-print(var)
-
-# rekt
+print(familienaam)
+print(voornaam)
+print(email)
